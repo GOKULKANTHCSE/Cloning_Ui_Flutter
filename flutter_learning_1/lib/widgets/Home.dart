@@ -54,7 +54,7 @@ class Home extends StatelessWidget {
                     height: 10,
                   ),
                   Text(
-                    "I will fulfill my duty, I won’t allow anyone here to die.",
+                    "I will fulfill my duty, I won’t allow anyone here to die",
                     style: TextStyle(
                         fontSize: 30,
                         fontWeight: FontWeight.bold,
